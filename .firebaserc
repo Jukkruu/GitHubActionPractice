@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "ouas-b453e",
+    "ou": "ouas-b453e"
+  },
+  "targets": {},
+  "etags": {}
 }
